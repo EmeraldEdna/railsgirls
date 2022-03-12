@@ -21,6 +21,9 @@ gem 'carrierwave'
 
 gem 'net-ssh'
 
+gem "rake", "~> 13.0"
+
+
 # Use the Puma web server [https://github.com/puma/puma]
 gem "puma", "~> 5.0"
 
